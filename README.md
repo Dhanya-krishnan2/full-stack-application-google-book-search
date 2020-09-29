@@ -48,5 +48,5 @@ Back-End
 
 ```
 ### The workflow of this app is given below
-        
+   This application is a full stack application the client folder consisting of many file and which is divided in to components, api, and pages.        
 
