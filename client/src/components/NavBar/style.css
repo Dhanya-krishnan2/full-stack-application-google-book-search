@@ -1,0 +1,22 @@
+.nav-wrapper{
+
+    display: flex;
+
+}
+
+.link-wrapper {
+    margin:0 25px;
+
+}
+
+.link-wrapper > h3 > a {
+    text-decoration: none;
+    color:white;
+    font-size: 26px;
+}
+
+.link-wrapper > h3 > a:hover {
+    text-decoration: underline;
+    
+}
+
