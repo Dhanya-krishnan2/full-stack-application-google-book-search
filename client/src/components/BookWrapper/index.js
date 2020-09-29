@@ -2,16 +2,17 @@ import React,{useContext} from 'react'
 import './style.css'
 import API from '../../api'
 import {MessageContext} from '../../Hooks'
-
+// These file requiring other files such as api,styles and hooks , here restructing is happening for the useContext hook, this hooks
+//lets the data to pass to children element
 const BookWrapper = props => {
 
     const [message,setMessage] = useContext(MessageContext)
-    
+    // we are using arrow function here and setting the message for the user
     const saveArticle = book => {
         API.saveBook(book)
         setMessage("Your book has been saved")
     }
-
+   // thsese are the children properties
     const {authors,title,description,link,image} = props
     return(
         <div className="book-wrapper">
@@ -75,3 +76,4 @@ const BookWrapper = props => {
 
 
 export default BookWrapper
+// exporting default here, that is Then in another file you import the default export without using the {}, like this,

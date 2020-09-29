@@ -48,5 +48,5 @@ Back-End
 
 ```
 ### The workflow of this app is given below
-   This application is a full stack application the client folder consisting of many file and which is divided in to components, api, and pages.        
+   This application is a full stack application the client folder consisting of many file and which is divided in to components, api, and pages.  In the api folder there is a file called index.js which contains the npm package called 'axios' and it is resposible for the routing and google api. In the components folder there is many other folder named  BookWrapper, Form, NavBar, NoResult, SavedBook wrapper, SearchResults, SearchWrapper etc. Each of having files named index.js and style.css.    
 
