@@ -1,5 +1,5 @@
 {
-  "name": "React-Google-Books-Search",
+  "name": "full-stack-applicatiom-google-Books-Search",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dhanya-krishnan2/React-Google-Books-Search.git"
+    "url": "git+https://github.com/Dhanya-krishnan2/full-stack-application-google-book-search.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Dhanya-krishanan2/React-Google-Books-Search/issues"
+    "url": "https://github.com/Dhanya-krishnan2/full-stack-application-google-book-search.git"
   },
-  "homepage": "https://github.com/Dhanya-krishanan2/React-Google-Books-Search#readme",
+  "homepage": "https://github.com/Dhanya-krishnan2/full-stack-application-google-book-search.git",
   "devDependencies": {
     "concurrently": "^4.1.0",
     "nodemon": "^1.18.7"
