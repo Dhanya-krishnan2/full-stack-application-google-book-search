@@ -14,7 +14,7 @@ I wanted to create a MERN stack application that allows the user to search and s
 
 
 ## Screenshot
-![Screenshot](/ss/googlebooks.png)
+![Screenshot](/ss/Screenshot%20(23).png)
 
 ## Code Structure
 
