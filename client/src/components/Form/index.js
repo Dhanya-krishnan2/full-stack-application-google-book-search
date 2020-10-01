@@ -1,7 +1,7 @@
 import React from 'react'
 import './style.css'
-
-
+// importing the needed file
+// we are creating a form with properties name, value, and change and clik event
 const Form = ({ name, value, onChange, onClick }) => {
     return (
         <div className="form-wrapper">

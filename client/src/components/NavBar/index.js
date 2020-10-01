@@ -1,6 +1,7 @@
 import React from 'react'
 import './style.css'
-
+// Imporing the needed file from outside
+// creating a navBar as search books and saved books and returning it
 const NavBar = () => {
     return (
         <div className="nav-wrapper">

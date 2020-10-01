@@ -4,6 +4,7 @@ import Search from './pages/Search';
 import Saved from './pages/Saved';
 import NavBar from './components/NavBar';
 import './index.css'
+//these components needs, the above mentioned components to to work, and it is imporiting all of them
 
 
 

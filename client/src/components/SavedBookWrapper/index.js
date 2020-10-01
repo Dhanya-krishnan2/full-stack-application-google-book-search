@@ -1,6 +1,6 @@
 import React from 'react'
 import './style.css'
-
+// here we need to use the join method to join description
 const SavedBookWrapper = props => {
         const {handleClick, _id, authors, title, description, link, image } = props
 
